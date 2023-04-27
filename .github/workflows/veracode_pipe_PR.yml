@@ -1,7 +1,7 @@
 on:
   pull_request:
     branches: [main]
-    #test-flaws to issues creation
+    #test-flaws to issues creation success
 jobs:
   build:
     runs-on: ubuntu-latest
